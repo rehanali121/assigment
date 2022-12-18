@@ -1,4 +1,31 @@
-#type{
-    colour=red
-    font_family=
+h1{
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 40px;
+    text-decoration: initial;
+}
+body{
+    color: rgb(117, 150, 163);
+    border-radius: 5px solid;
+    border-image: 2px solid;
+    text-decoration: dotted;
+    background-color: beige;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    background-image:url(https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/DHA_Suffa_University_Logo.svg/200px-DHA_Suffa_University_Logo.svg.png) ;
+    background-repeat: no-repeat;
+    text-emphasis: none;
+    
+}
+img{
+    height: 400px;
+    width: 400px;
+    border: solid 10px;
+    list-style: decimal-leading-zero;
+    
+}
+p{
+    color: black;
+    font-size: 20px;
+    border: solid 5px;
 }
